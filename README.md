@@ -18,11 +18,11 @@ QSaling uses the program KPAX version 3 to run structure alignments. KPAX execut
 
   Step 1.
 
-    Download the archives and “use_QSalign”      
+    Download the archive “use_QSalign.tar.gz”      
 
   Step 2.
 
-    unzip the files using
+    unzip using the command:
 
     tar -xvfz XXXX.tar.gz
 
