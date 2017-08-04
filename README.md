@@ -60,9 +60,8 @@ QSaling uses the program KPAX version 3 to run structure alignments. KPAX execut
 
   Step 6.
   
-   Run  "QSalign.pl" with the full path of the query and number of subunits the query has and the target file containg 4 letter target code and corresponding number of subunits.
-        (a sample target file is provided)
-        Syntax:
+   Run  "QSalign.pl" with the full path of the query and number of subunits the query has and the target file containg 4 letter target code and corresponding number of subunits. (a sample target file is provided)
+       
         perl QSalign.pl /home/XXXX.pdb 4 target_file.txt
 
     Run time depends upon the size of the query, T_CUT, and number of targets, can take ~2mins to few hours for each run.
