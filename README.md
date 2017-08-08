@@ -44,9 +44,15 @@ QSaling uses the program KPAX version 3 to run structure alignments. KPAX execut
 
     Open “kpax.pm” and change the paths of the following folders according to where its is downloaded :
 
-    i)   $BU_RES_RENUM    (for BU_all_renum)
-    ii)  $BU_PISA                    (for BU_PISA)
-    iii) $PATH_BU_SPLIT      (BU_all_renum_split)
+    i)   $BU_PDB    (all files from PDB)
+    ii)  $BU_PISA   (all files from PISA, if any)
+    iii) $BU_SPLIT  (files with chains splitted)
+    
+    Redundancy in chain names can be found at times in a file provided by PDB, make sure to make the chain names uniq.
+    Assemblies with renamed (uniq) chain names can be obtained from  http://shmoo.weizmann.ac.il/elevy/3dcomplexV5/Download2.cgi
+    
+    All assemblies from PDB, PISA and splitted files used in 3Dcomplex can be obtained from 
+    http://shmoo.weizmann.ac.il/elevy/3dcomplexV5/dataV5/QSalign_exe.html
 
     [OPTIONAL]
 
