@@ -52,7 +52,7 @@ QSaling uses the program KPAX version 3 to run structure alignments. KPAX execut
     Assemblies with renamed (uniq) chain names can be obtained from  http://shmoo.weizmann.ac.il/elevy/3dcomplexV5/Download2.cgi
     
     All assemblies from PDB, PISA and splitted files used in 3Dcomplex can be obtained from 
-    http://shmoo.weizmann.ac.il/elevy/3dcomplexV5/dataV5/QSalign_exe.html
+    http://shmoo.weizmann.ac.il/elevy/3dcomplexV5/dataV5/iBASS_exe.html
 
     [OPTIONAL]
 
