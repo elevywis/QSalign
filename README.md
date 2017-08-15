@@ -62,7 +62,7 @@ QSaling uses the program KPAX version 3 to run structure alignments. KPAX execut
 
   Step 5. [OPTIONAL]
 
-    By default the folder “BU_PISA” contains only the top solution from PISA, if one wants to use few more solutions from PISA, then run PISA from CCP4 Program suite  (http://www.ccp4.ac.uk/index.php) and copy the assemblies as XXXX_p1.pdb (already present), XXXX_p2.pdb etc. into the folder BU_PISA. Also add the entries in the name list file “pdb_pisa.txt”
+    By default the folder “BU_PISA” contains only the top solution from PISA, if one wants to use few more solutions from PISA, then run PISA from CCP4 Program suite  (http://www.ccp4.ac.uk/index.php) and copy the assemblies as XXXX_p1.pdb (already present), XXXX_p2.pdb etc. into the folder BU_PISA.
 
   Step 6.
   
